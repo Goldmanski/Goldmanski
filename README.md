@@ -1,16 +1,27 @@
-## Hi there 👋
+# AI Engineer
 
-<!--
-**Goldmanski/Goldmanski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI-powered applications combining LLMs,
+machine learning, and software engineering.
 
-Here are some ideas to get you started:
+## What I Work On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LLM-powered applications and structured data extraction
+- Machine learning and predictive systems
+- Embeddings and semantic search
+- AI application architecture and deployment
+
+## Technical Focus
+
+**AI & Machine Learning**  
+LLMs · Machine Learning · Embeddings · Semantic Search
+
+**Software Engineering**  
+Python · OOP · Domain-Driven Design · Application Architecture
+
+**AI Infrastructure**  
+Vector Databases · APIs · Observability · Deployment
+
+## Currently Learning
+
+Deepening my knowledge of software engineering and
+production AI systems.

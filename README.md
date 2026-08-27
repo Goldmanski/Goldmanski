@@ -1,27 +1,30 @@
-# AI Engineer
+# Eliasz Nowicki
 
-I build AI-powered applications combining LLMs,
-machine learning, and software engineering.
+### AI Engineer
 
-## What I Work On
+I build practical applications where **AI, Machine Learning and Software Engineering** meet.
 
-- LLM-powered applications and structured data extraction
-- Machine learning and predictive systems
-- Embeddings and semantic search
-- AI application architecture and deployment
+[Portfolio](https://goldmanski.github.io/ds_ai_portfolio/) ·
+[LinkedIn](https://www.linkedin.com/in/eliasz-nowicki/)
 
-## Technical Focus
+---
 
-**AI & Machine Learning**  
-LLMs · Machine Learning · Embeddings · Semantic Search
+## Featured Work
 
-**Software Engineering**  
-Python · OOP · Domain-Driven Design · Application Architecture
+### 🏃 Half Marathon Predictor
+LLM-powered natural language interface for a Machine Learning prediction system.
 
-**AI Infrastructure**  
-Vector Databases · APIs · Observability · Deployment
+### 🎙️ Voice Recall
+Voice notes transformed into searchable knowledge using embeddings and semantic search.
 
-## Currently Learning
+### 📄 CVTailor
+AI-assisted CV tailoring with deterministic PDF generation.
 
-Deepening my knowledge of software engineering and
-production AI systems.
+### ⚙️ Offer Generator
+Business application focused on domain modelling, business rules and automated testing.
+
+---
+
+## Currently
+
+Deepening my knowledge of **software engineering and production AI systems**.

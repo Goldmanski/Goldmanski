@@ -2,8 +2,6 @@
 
 ## Beyond the model. Into the real world.
 
-*Intelligence needs context.*
-
 I don't see AI as a complete solution on its own. I see it as one component of a larger system,
 whose value depends on the problem it addresses, the domain in which it operates,
 and the boundaries defined around it.

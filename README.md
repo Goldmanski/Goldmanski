@@ -1,11 +1,8 @@
 # Eliasz Nowicki
 
-> I build and study intelligent systems that connect **Machine Learning, AI and Software Engineering**
-> with **real-world domains and human needs**.
+## Beyond the model. Into the real world.
 
-My focus is on understanding how these technologies can be combined to solve practical problems
-while keeping a clear distinction between what should be handled by AI and what should remain
-under human or software control.
+*Intelligence needs context.*
 
 I don't see AI as a complete solution on its own. I see it as one component of a larger system,
 whose value depends on the problem it addresses, the domain in which it operates,
@@ -19,41 +16,41 @@ I think about intelligent systems through four interconnected elements:
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 ### DOMAIN
 
-**Defines the problem, context and constraints.**
+Defines the problem, context and constraints.
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
 ### HUMAN
 
-**Provides purpose, judgement and responsibility.**
+Provides purpose, judgement and responsibility.
 
 </td>
 </tr>
 <tr>
-<td>
+<td width="50%" align="center">
 
 ### AI
 
-**Provides capabilities such as prediction, representation and generation.**
+Provides capabilities such as prediction, representation and generation.
 
 </td>
-<td>
+<td width="50%" align="center">
 
 ### ENGINEERING
 
-**Defines how these capabilities are integrated, constrained and made reliable.**
+Defines how these capabilities are integrated, constrained and made reliable.
 
 </td>
 </tr>
 </table>
 
-The interesting part, for me, is not simply **what AI can do**, but **how AI can be integrated
-into a system without losing sight of the domain and the people who use it.**
+The interesting part, for me, is not simply what AI can do, but how AI can be integrated
+into a system without losing sight of the domain and the people who use it.
 
 ---
 
@@ -67,6 +64,37 @@ into a system without losing sight of the domain and the people who use it.**
 - Neural networks and PyTorch as the next stage of my ML development
 
 ---
+
+## Selected work
+
+### 🧠 Machine Learning
+
+Projects focused on applying Machine Learning to practical problems,
+from data exploration and clustering to predictive modelling.
+
+### 🤖 AI Applications
+
+Exploring how AI capabilities can become part of larger applications
+rather than existing as isolated models.
+
+### ⚙️ AI Engineering
+
+Learning how models, data, software and infrastructure come together
+to create reliable and useful AI systems.
+
+---
+
+## Philosophy
+
+> AI can answer. We decide what is worth asking.
+
+I believe the value of AI is not determined only by the capability of the model,
+but by the system around it — the problem being solved, the domain in which it operates,
+and the people who ultimately use it.
+
+---
+
+## Connect
 
 **[Explore my portfolio →](https://goldmanski.github.io/ds_ai_portfolio/)**  
 **[Connect with me on LinkedIn →](https://www.linkedin.com/in/eliasz-nowicki/)**
